@@ -23,4 +23,8 @@ Here are the economic factors to analyze:
 14. **Wage Rates (Average)**: Present an overview of the average wage rates in Iceland, particularly in the energy sector, and how they affect the labor costs for renewable energy projects.
 15. **Unemployment Rates**: Provide current and historical unemployment data in Iceland, analyzing how labor availability and skills impact the renewable energy industry.
 
-Ensure that the analysis is data-driven, offering a holistic view of the economic environment's impact on Iceland’s renewable energy sector. Provide actionable insights for businesses considering entry or expansion in Iceland's renewable energy market."
+Ensure that the analysis is data-driven, offering a holistic view of the economic environment's impact on Iceland’s renewable energy sector. Provide actionable insights for businesses considering entry or expansion in Iceland's renewable energy market.
+
+Use facts, figures and be very specific and concrete to answer each point, back up your answers with references to sources. 
+
+Save all answers in markdown format."

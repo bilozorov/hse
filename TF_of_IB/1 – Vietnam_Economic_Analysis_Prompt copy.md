@@ -5,6 +5,9 @@
 
 "Conduct a comprehensive economic analysis of Vietnam's renewable energy sector (SIC Code 4911 - Electric Services) using PESTEL framework, focusing specifically on economic factors. Leverage open-access databases, industry reports, and government websites for the most recent and accurate information. For each of the economic factors listed below, provide detailed insights that reflect Vietnam's current and projected economic environment in relation to the renewable energy industry. Incorporate numerical data, statistics, and any relevant policies or trends. Make sure to reference official sources, such as the Vietnamese government’s energy and finance departments, international organizations like the IMF, World Bank, and other reputable industry reports. 
 
+I'll give you the factors one by one, and you generate the answers for me. Understood? 
+
+
 Here are the economic factors to analyze:
 
 1. **Economic Growth Rate**: Discuss Vietnam's GDP growth rate trends, specifically how they impact investment and development in the renewable energy sector.
