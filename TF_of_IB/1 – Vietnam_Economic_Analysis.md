@@ -1,4 +1,4 @@
-# Economic Growth Rate Analysis for Vietnam's Renewable Energy Sector
+# 1. Economic Growth Rate Analysis for Vietnam's Renewable Energy Sector
 
 Vietnam's GDP growth has shown resilience and strong performance in recent years, which positively impacts its renewable energy sector. The country’s economy grew by 8% in 2022, but growth moderated to 5% in 2023 due to global headwinds and domestic challenges such as rising prices and slower private investment. Despite these hurdles, the World Bank projects GDP growth to rebound to 6.1% in 2024, accelerating further to 6.5% in 2025. This growth is primarily driven by strong manufacturing and service exports, supported by a recovery in domestic consumption and investment [World Bank](https://www.worldbank.org/en/news/press-release/2024).
 
@@ -20,7 +20,7 @@ While economic growth is a positive indicator, challenges such as inflationary p
 3. [Vietnam's Economic Growth and Renewable Energy Sector](https://www.worldbank.org/en/news/feature/2023)
 
 
-# SUMMARY: Economic Growth Rate - Vietnam's Renewable Energy Sector 
+## SUMMARY: Economic Growth Rate - Vietnam's Renewable Energy Sector 
 
 Vietnam’s GDP growth showcases resilience, with 8% growth in 2022, slowing to 5% in 2023 due to global factors. The World Bank projects recovery at 6.1% in 2024 and 6.5% in 2025, driven by robust exports and domestic investments. This consistent growth underpins investment in renewable energy infrastructure, supporting Vietnam's goal to achieve net-zero emissions by 2050.
 
