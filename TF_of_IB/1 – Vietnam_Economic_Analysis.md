@@ -28,3 +28,27 @@ Vietnam’s GDP growth showcases resilience, with 8% growth in 2022, slowing to 
 1. [World Bank - Vietnam Economic Update](https://www.worldbank.org/en/news/press-release/2024)
 2. [World Bank - Vietnam Overview](https://www.worldbank.org/en/country/vietnam/overview)
 3. [Vietnam's Economic Growth and Renewable Energy Sector](https://www.worldbank.org/en/news/feature/2023)
+
+---
+
+# 2. Interest Rates in Vietnam and Their Impact on Renewable Energy Projects
+
+As of October 2024, the State Bank of Vietnam (SBV) has maintained the refinancing rate at **4.5%**, and the discount rate at **3.0%**. These rates have been adjusted several times in recent years to support economic stability amidst global economic fluctuations and domestic challenges [SBV Source](https://www.sbv.gov.vn/webcenter/portal/en/home/rm/ir).
+
+## Impact on Borrowing Costs for Renewable Energy Projects
+
+These interest rates directly influence the cost of capital for renewable energy projects. A refinancing rate of 4.5% indicates moderate borrowing costs for developers, enabling access to financing at relatively favorable terms compared to other emerging markets. By keeping rates stable, the SBV aims to maintain investor confidence and encourage investment in strategic sectors, including renewable energy [SBV Monetary Policy and Interest Rates](https://www.sbv.gov.vn/webcenter/portal/m_en/home/sbv/news/news_chitiet?leftWidth=0%25&showFooter=false&showHeader=false&dDocName=SBV586610).
+
+Stable and moderate interest rates reduce financial uncertainty, which is critical for renewable energy projects that typically involve significant upfront capital. These favorable conditions align with Vietnam’s broader economic and environmental objectives, as the country strives to attract foreign direct investment (FDI) into its green energy infrastructure [SBV Source](https://www.sbv.gov.vn/webcenter/portal/en/links/cm409?dDocName=SBV567021).
+
+### Sources:
+1. [State Bank of Vietnam - Interest Rates](https://www.sbv.gov.vn/webcenter/portal/en/home/rm/ir)
+2. [SBV Monetary Policy and Interest Rates](https://www.sbv.gov.vn/webcenter/portal/m_en/home/sbv/news/news_chitiet?leftWidth=0%25&showFooter=false&showHeader=false&dDocName=SBV586610)
+
+## SUMMARY: Interest Rates - Vietnam's Renewable Energy Sector
+
+As of October 2024, Vietnam’s central bank sets the refinancing rate at **4.5%** and the discount rate at **3.0%**. These moderate rates aim to stabilize borrowing costs for renewable energy projects, encouraging investment and maintaining investor confidence.
+
+### Sources:
+1. [State Bank of Vietnam - Interest Rates](https://www.sbv.gov.vn/webcenter/portal/en/home/rm/ir)
+2. [SBV Monetary Policy and Interest Rates](https://www.sbv.gov.vn/webcenter/portal/m_en/home/sbv/news/news_chitiet?leftWidth=0%25&showFooter=false&showHeader=false&dDocName=SBV586610)
