@@ -47,11 +47,6 @@
 - **Property tax exemptions** are available for renewable energy projects in some municipalities.
 - **Tax credits** and **depreciation allowances** incentivize renewable energy R&D and infrastructure development.
 
-### Sources
-- Icelandic Ministry of Finance and Economic Affairs
-- Icelandic National Energy Authority
-- International Monetary Fund (IMF)
-
 ## Financing Capabilities (Slide Summary)
 
 - Iceland’s interest rate is **9.25%** (2023), raising borrowing costs for renewable energy projects.
