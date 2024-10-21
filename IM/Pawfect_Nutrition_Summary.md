@@ -90,6 +90,17 @@ The **Russian premium pet food market** offers some entry opportunities, but sig
 **Conclusion**: Moderate buyer power; price sensitivity is rising, but brand loyalty mitigates the risk.
 
 ---
+
+# Competitive Rivalry - Summary
+
+- **Market Concentration**: Moderately concentrated with major players like Mars and Nestlé Purina. Local players like Miratorg are gaining ground.
+- **Number of Competitors**: International and local competitors are active; increased competition due to Western brand exits.
+- **Growth of Domestic Competitors**: Domestic brands are growing, focusing on local production and premium products.
+- **Price Competition**: Competitive pricing from local brands; premium pricing from global players.
+
+**Conclusion**: Intense competition from both global and domestic brands. Pawfect Nutrition can differentiate through health-focused products and local sourcing.
+
+---
 ---
 ---
 
