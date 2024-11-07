@@ -9,3 +9,6 @@
 - [Transparency International - Vietnam](https://www.transparency.org/en/countries/vietnam)
 - [Eco-Business - Vietnam's Renewable Energy Sector](https://www.eco-business.com/news/vietnam-once-regional-renewables-beacon-loses-shine-to-neighbours/)
 - [Reuters - Vietnam's Anti-Corruption Campaign](https://www.reuters.com/world/asia-pacific/how-has-communist-run-vietnams-graft-campaign-shaken-up-its-politics-2024-08-26/)
+
+
+
