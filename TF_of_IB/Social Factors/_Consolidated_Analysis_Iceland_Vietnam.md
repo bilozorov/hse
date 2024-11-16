@@ -20,7 +20,7 @@
 | 2022                   | 2.5                     | 0.8                      |
 | 2023                   | 2.3                     | 0.8                      |
 
-**Impact on Renewable Energy Sector**
+### **Impact on Renewable Energy Sector**
 
 | Aspect                  | Iceland                                         | Vietnam                                             |
 |--------------------------|------------------------------------------------|----------------------------------------------------|
@@ -37,7 +37,7 @@
 | 15–64 years            | 63.2        | 68.4        |
 | 65 years and over      | 17.1        | 7.6         |
 
-**Impact on Renewable Energy Sector**
+### **Impact on Renewable Energy Sector**
 
 | Aspect                  | Iceland                                              | Vietnam                                              |
 |--------------------------|-----------------------------------------------------|-----------------------------------------------------|
@@ -55,7 +55,7 @@
 | Tertiary Education Enrollment | Over 19,600 students in 2022     | 28.3% gross enrollment ratio in 2020 |
 | STEM Graduates (%)            | 19.6% of tertiary students       | 27% of tertiary graduates         |
 
-**Impact on Renewable Energy Sector**
+### **Impact on Renewable Energy Sector**
 
 | Aspect                        | Iceland                                                             | Vietnam                                                             |
 |-------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
@@ -73,7 +73,7 @@
 | Per Capita Income (GNI, $)   | 74,400                         | 3,560                          |
 | Income Distribution          | Top 10% hold 22.3% of income   | Top 10% hold 30.2% of income   |
 
-**Impact on Renewable Energy Sector**
+### **Impact on Renewable Energy Sector**
 
 | Aspect                       | Iceland                                            | Vietnam                                            |
 |------------------------------|---------------------------------------------------|---------------------------------------------------|
@@ -90,7 +90,7 @@
 | Social Mobility Index Rank   | 6th out of 82                  | 50th out of 82                |
 | Social Mobility Score        | 78.2/100                       | 55.3/100                      |
 
-**Impact on Renewable Energy Workforce Engagement**
+### **Impact on Renewable Energy Workforce Engagement**
 
 | Aspect                       | Iceland                                            | Vietnam                                            |
 |------------------------------|---------------------------------------------------|---------------------------------------------------|
@@ -108,7 +108,7 @@
 | Public Demand for Green Energy  | Strong support for carbon neutrality and renewable initiatives | Rising demand due to air pollution concerns         |
 
 
-**Impact on Renewable Energy Adoption**
+### **Impact on Renewable Energy Adoption**
 
 | Aspect                          | Iceland                                            | Vietnam                                            |
 |---------------------------------|---------------------------------------------------|---------------------------------------------------|
@@ -126,7 +126,7 @@
 | Public Perception              | Positive attitudes driven by natural resources and government policies | Increasing awareness and industry demand (30% of green jobs in manufacturing sector) |
 
 
-**Impact on Renewable Energy Sector**
+### **Impact on Renewable Energy Sector**
 
 | Aspect                          | Iceland                                            | Vietnam                                            |
 |---------------------------------|---------------------------------------------------|---------------------------------------------------|
@@ -144,7 +144,7 @@
 | Solar Panels                 | Limited adoption due to reliance on geothermal and hydroelectric resources | Over 9 GW rooftop solar installed by 2020, driven by government incentives |
 
 
-**Impact on Renewable Energy Demand**
+### **Impact on Renewable Energy Demand**
 
 | Aspect                       | Iceland                                            | Vietnam                                            |
 |------------------------------|---------------------------------------------------|---------------------------------------------------|
@@ -162,7 +162,7 @@
 | Electric Vehicles (EVs)       | 50% of new car registrations in 2023, among the highest per capita globally | Emerging market, small share of total market dominated by internal combustion engines |
 
 
-**Impact on Renewable Energy Adoption**
+### **Impact on Renewable Energy Adoption**
 
 | Aspect                        | Iceland                                            | Vietnam                                            |
 |-------------------------------|---------------------------------------------------|---------------------------------------------------|
@@ -180,7 +180,7 @@
 | Cultural Barriers             | Resistance to projects impacting natural landscapes | Traditional reliance on coal and limited public awareness pose challenges |
 
 
-**Impact on Renewable Energy Adoption**
+### **Impact on Renewable Energy Adoption**
 
 | Influence                     | Iceland                                            | Vietnam                                            |
 |-------------------------------|---------------------------------------------------|---------------------------------------------------|
@@ -198,7 +198,7 @@
 | Renewable Energy Leadership   | Strong public support for geothermal and hydroelectric projects | Government policies promote sustainability with a focus on cultural heritage |
 
 
-**Impact on Public Support for Renewable Energy**
+### **Impact on Public Support for Renewable Energy**
 
 | Influence                     | Iceland                                            | Vietnam                                            |
 |-------------------------------|---------------------------------------------------|---------------------------------------------------|
@@ -217,7 +217,7 @@
 | Openness to Foreign Companies | Open investment climate with incentives for renewable energy companies | Actively encourages foreign investments; policies support international participation |
 
 
-**Impact on Market Growth**
+### **Impact on Market Growth**
 
 | Influence                     | Iceland                                            | Vietnam                                            |
 |-------------------------------|---------------------------------------------------|---------------------------------------------------|
@@ -236,7 +236,7 @@
 | Willingness to Work in Sector | High cultural and educational alignment with renewable energy goals | Growing interest, driven by incentives but facing skill gap challenges |
 
 
-**Impact on Renewable Energy Sector**
+### **Impact on Renewable Energy Sector**
 
 | Influence                     | Iceland                                            | Vietnam                                            |
 |-------------------------------|---------------------------------------------------|---------------------------------------------------|
