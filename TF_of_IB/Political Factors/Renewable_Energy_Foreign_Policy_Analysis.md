@@ -1,0 +1,13 @@
+| Factor                    | Iceland                                                                                                                                                              | Vietnam                                                                                               |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Focus | Predominantly domestic consumption with nearly 100% electricity from renewable sources; no electricity exports due to isolated grid; focus on exporting expertise in renewable energy technologies. | Actively developing renewable energy to meet domestic demand and environmental commitments; attracting foreign investments in solar and wind energy. |
+| Partnerships and Agreements | - EU: Cooperation under EEA Agreement; sharing goals in Paris Agreement.
+- Norway: Joint climate action agreement since 2019.
+- China: Free Trade Agreement includes renewable energy cooperation. | - China: Collaboration on renewable projects, investments in solar and wind.
+- US: Approval of DPPA allowing direct purchase of clean energy; milestone for net-zero goals.
+- EU: EVFTA includes renewable energy cooperation and technology transfer. |
+| Energy Exports/Imports | Does not export electricity but exports geothermal technology and expertise globally. | Focuses on domestic renewable energy capacity but imports electricity from Laos and Cambodia. |
+
+| Impact on Government Foreign Policy in Renewable Energy Markets | Iceland                                                                                                        | Vietnam                                                                                                      |
+|-----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Impact                                                          | Iceland's focus on exporting geothermal expertise and technology enhances its global leadership in renewable energy innovation. Partnerships with the EU, Norway, and China foster knowledge sharing and international collaboration. | Vietnam's proactive foreign policy attracts significant foreign investment and technology transfer. Policies like the DPPA highlight its commitment to meeting renewable energy goals and growing its renewable energy market. |
