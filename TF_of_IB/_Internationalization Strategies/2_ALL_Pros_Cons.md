@@ -41,7 +41,7 @@
 
 ---
 
-# Pros and Cons of All levels Internationalization Strategies in the Renewable Energy Sector (Based on possible PESTEL Analysis):
+# Pros and Cons of All levels Internationaization Straltegies in the Renewable Energy Sector (Based on possible PESTEL Analysis):
 
 --- 
 
