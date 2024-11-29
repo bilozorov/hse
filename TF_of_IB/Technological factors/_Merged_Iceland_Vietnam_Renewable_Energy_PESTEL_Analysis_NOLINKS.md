@@ -36,8 +36,6 @@ In summary, both Iceland and Vietnam have implemented a combination of incentive
 
 - **Automation in Renewable Energy Projects:** The implementation of automation technologies enhances operational efficiency and energy output. Iceland's established renewable energy infrastructure benefits from advanced automation, particularly in geothermal and hydropower facilities. Vietnam is adopting automation in its expanding solar and wind projects, aiming to improve performance and integrate into the national grid.
 
-*Note: Specific percentages of renewable energy projects utilizing automation are not readily available. The information provided is based on industry trends and available reports.*
-
 
 ---
 
