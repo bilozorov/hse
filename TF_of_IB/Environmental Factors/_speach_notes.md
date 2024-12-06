@@ -34,3 +34,24 @@ Climate change implications are critical for both countries. Iceland faces risin
 On the legislative front, Iceland has robust environmental laws promoting renewable energy and strict carbon reduction policies. Vietnam, too, has introduced incentives for solar and wind power development, with initiatives to attract foreign investment.  
 
 Finally, promoting sustainability and business ethics is central to both nations. Iceland champions corporate social responsibility through eco-friendly practices, while Vietnam encourages ethical investments aligned with its green growth strategy. Together, these factors underscore their commitment to a sustainable energy future."  
+
+---
+
+# Speaker 4: Internationalization Strategies for Renewable Energy in Vietnam and Iceland
+
+**Speech:**  
+"Good day, everyone. Today, I will discuss optimal internationalization strategies for advancing renewable energy in Vietnam and Iceland, considering each country's unique environmental and market conditions.
+
+**Vietnam: Joint Ventures**
+
+Vietnam boasts significant solar and wind energy potential, with average solar insolation ranging from 3.69 to 5.9 kWh/m²/day and an estimated onshore wind potential of 24 GW. Coupled with a rapidly growing population exceeding 96 million and ongoing industrialization, the demand for energy is escalating. However, navigating Vietnam's complex regulatory environment and geopolitical challenges, such as disputes in the South China Sea, can be daunting.
+
+Forming joint ventures with local partners enables foreign renewable energy companies to effectively address these challenges. Collaborating with established Vietnamese firms facilitates access to essential resources, ensures compliance with local regulations, and enhances community acceptance. Additionally, this strategy allows for shared financial risks and capital investments, making large-scale renewable energy projects more feasible.
+
+**Iceland: Greenfield Operations**
+
+Iceland is renowned for its vast geothermal resources, with an installed capacity of approximately 799 MW and over 20 TWh/year of untapped potential. However, due to its geographical location, the country has limited potential for large-scale solar and wind energy projects. Moreover, Iceland's high standard of living results in elevated labor costs for renewable energy projects.
+
+Establishing wholly owned subsidiaries through greenfield operations allows companies to fully control technology deployment and ensure that proprietary renewable technologies are implemented effectively. This approach is advantageous in Iceland, where specialized expertise in geothermal energy is crucial. Operating through a local subsidiary enhances compliance with local regulations and enables companies to benefit from government incentives for renewable energy projects. Furthermore, full ownership allows for strategic decision-making without external influence, maximizing long-term return on investment.
+
+In conclusion, tailored internationalization strategies—joint ventures in Vietnam and greenfield operations in Iceland—are essential for successfully advancing renewable energy initiatives in these distinct markets."
