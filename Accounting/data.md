@@ -1,4 +1,4 @@
-# Microsoft Acquisition of Activision Blizzard: Profitability Metrics Analysis
+# Microsoft Acquisition of Activision Blizzard: Metrics Analysis
 
 ## Profitability Metrics Table
 
