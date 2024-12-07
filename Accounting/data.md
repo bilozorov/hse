@@ -2,6 +2,8 @@
 
 ## Profitability Metrics Table
 
+**Motivation**: These will help determine if the acquisition improved Microsoft's overall profitability.
+
 | **Metric**            | **Formula**                  | **FY2023 (Pre-Acquisition)**      | **FY2024 (Post-Acquisition)**     | **Analysis**                                                                                  |
 |------------------------|------------------------------|------------------------------------|------------------------------------|----------------------------------------------------------------------------------------------|
 | **Net Profit Margin**  | Net Income ÷ Revenue         | 28.9% (Net Income: $61,274M; Revenue: $211,915M) | 36.6% (Net Income: $72,574M; Revenue: $198,270M) | Improved from 28.9% to 36.6%, reflecting increased profitability.                           |
@@ -17,6 +19,8 @@ Post-acquisition, Microsoft experienced improvements in **Net Profit Margin**, *
 
 ## Liquidity Metrics Table
 
+**Motivation**: Assess Microsoft’s ability to meet short-term obligations, especially given the significant cash outlay for the acquisition.
+
 | **Metric**          | **Formula**                     | **FY2023 (Pre-Acquisition)**            | **FY2024 (Post-Acquisition)**           | **Analysis**                                                                                 |
 |----------------------|---------------------------------|------------------------------------------|------------------------------------------|---------------------------------------------------------------------------------------------|
 | **Current Ratio**    | Current Assets ÷ Current Liabilities | 1.77 (Assets: $184.257B; Liabilities: $104.149B) | 1.28 (Assets: $159.734B; Liabilities: $125.286B) | Decreased from 1.77 to 1.28, indicating reduced ability to cover short-term obligations.    |
@@ -30,6 +34,8 @@ Post-acquisition, both the **Current Ratio** and **Quick Ratio** have declined, 
 
 ## Debt Management Ratios Table
 
+**Motivation**: Understand how Microsoft financed the acquisition and its impact on leverage.
+
 | **Metric**              | **Formula**                | **FY2023 (Pre-Acquisition)**        | **FY2024 (Post-Acquisition)**       | **Analysis**                                                                                  |
 |--------------------------|----------------------------|--------------------------------------|--------------------------------------|----------------------------------------------------------------------------------------------|
 | **Debt-to-Equity Ratio** | Total Debt ÷ Shareholders' Equity | 0.28 (Debt: $58.7B; Equity: $206.2B) | 0.23 (Debt: $62.7B; Equity: $268.5B) | Decreased from 0.28 to 0.23, indicating reduced leverage post-acquisition.                   |
@@ -42,6 +48,10 @@ Post-acquisition, Microsoft's **Debt-to-Equity Ratio** decreased, and its **Inte
 --- 
 
 ## Efficiency Metrics Table
+
+**Motivation**: Analyze whether Microsoft is using its assets effectively post-acquisition.
+
+
 
 | **Metric**                   | **Formula**                | **FY2023 (Pre-Acquisition)**            | **FY2024 (Post-Acquisition)**           | **Analysis**                                                                                  |
 |-------------------------------|----------------------------|------------------------------------------|------------------------------------------|----------------------------------------------------------------------------------------------|
